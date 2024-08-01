@@ -33,7 +33,7 @@ p {
 	letter-spacing: 0.05rem;
 }
 .section-title {
-	font-size: 4rem;
+	font-size: 3rem;
 	font-weight: 300;
 	color: white;
 	margin-bottom: 1px;
@@ -236,6 +236,7 @@ p {
 	color: transparent;
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
+	text-align: center;
 }
 #hero h1:nth-child(1) {
 	animation-delay: 1s;
@@ -291,7 +292,7 @@ p {
 #services .section-title{
 	color: white;
 	margin-top: 5rem;
-	font-size: 5rem;
+	font-size: 3rem;
 }
 #services .service-item {
 	flex-basis: 80%;
@@ -383,7 +384,7 @@ p {
 	font-size: 2rem;
 	font-weight: 800;
 	margin-top: 10px;
-	color: #485563;
+	color: #14171a;
 }
 #projects .project-info p {
 	color: white;
